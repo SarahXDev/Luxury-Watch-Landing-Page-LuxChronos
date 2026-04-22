@@ -17,5 +17,7 @@ A modern and elegant landing page designed for a luxury watch brand. The project
 ## Purpose
 This project demonstrates front-end development skills and UI/UX design for luxury brand websites.
 
-## Preview
-(Add screenshots here later)
+
+
+
+-
